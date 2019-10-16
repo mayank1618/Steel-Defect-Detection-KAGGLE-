@@ -1,1 +1,1 @@
-# Steel-Defect-Detection-KAGGLE-
+# Steel-Defect-Detection (KAGGLE)
