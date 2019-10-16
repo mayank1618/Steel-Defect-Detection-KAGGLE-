@@ -1,0 +1,9 @@
+train/* 
+test/*
+!train/README.md
+!test/README.md
+
+#SAmple Code
+model.py
+Untitled.ipynb
+.ipynb_checkpoints
